@@ -5,9 +5,10 @@ A wide-area multi-modal multi-view dataset for action recognition and transforme
 ## 📖 Paper Reference
 
 **MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion**
-- Source code: https://github.com/thanhhff/MultiTSF
 
 *This dataset is introduced in our paper. For detailed methodology, experimental results, and technical insights, please refer to the publication.*
+
+- Source code: https://github.com/thanhhff/MultiTSF
 
 ## 📊 Dataset Overview
 
