@@ -9,6 +9,7 @@ A wide-area multi-modal multi-view dataset for action recognition and transforme
 *This dataset is introduced in our paper. For detailed methodology, experimental results, and technical insights, please refer to the publication.*
 
 - Source code: https://github.com/thanhhff/MultiTSF
+- Download dataset: https://huggingface.co/datasets/thanhhff/MultiSensor-Home1/
 
 ## 📊 Dataset Overview
 
