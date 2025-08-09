@@ -1,4 +1,4 @@
-# MultiSensor-Home1: Benchmark for Multi-modal Multi-view Action Recognition in Home Environments
+# MultiSensor-Home: Benchmark for Multi-modal Multi-view Action Recognition in Home Environments
 
 A wide-area multi-modal multi-view dataset for action recognition and transformer-based sensor fusion research.
 
