@@ -23,6 +23,21 @@ MultiSensor-Home is a comprehensive multi-view action recognition dataset captur
 
 **Note**: The original high-resolution dataset (4000×3000 pixels) is available upon request. Please contact: nguyent@cs.is.i.nagoya-u.ac.jp
 
+## 🏠 Room Layout and Camera Setup
+
+![Home1 Layout](Home1-Layout.png)
+
+*Home1 floor plan showing camera positions and room layout*
+
+- **Room Layout**: Complete floor plan of the home environment
+- **Camera Positions**: Exact placement of all 5 cameras (View1-View5)
+- **Camera Orientations**: Direction and field of view for each camera
+- **Room Dimensions**: Spatial measurements and room configurations
+- **Recording Environment**: Overview of the home setup used for data collection
+
+This layout file is essential for understanding the spatial relationships between different camera views and the overall recording environment.
+
+
 ## 🏠 Dataset Structure
 
 ```
@@ -90,20 +105,6 @@ Each video segment is annotated with:
 - **video_url_1-5**: Paths to the 5 synchronized video views
 - **start/end**: Temporal boundaries in seconds
 - **labels**: Action label for the time segment
-
-## 🏠 Room Layout and Camera Setup
-
-![Home1 Layout](Home1-Layout.png)
-
-*Home1 floor plan showing camera positions and room layout*
-
-- **Room Layout**: Complete floor plan of the home environment
-- **Camera Positions**: Exact placement of all 5 cameras (View1-View5)
-- **Camera Orientations**: Direction and field of view for each camera
-- **Room Dimensions**: Spatial measurements and room configurations
-- **Recording Environment**: Overview of the home setup used for data collection
-
-This layout file is essential for understanding the spatial relationships between different camera views and the overall recording environment.
 
 
 ## 📧 Original High-Resolution Dataset
