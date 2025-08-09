@@ -138,7 +138,7 @@ We welcome contributions and feedback. If you find any issues or have suggestion
 
 For questions about the dataset, paper, or to request the original high-resolution version:
 
-**Email**: nguyent@cs.is.i.nagoya-u.ac.jp
+**Email**: nguyent [at] cs.is.i.nagoya-u.ac.jp
 
 ---
 
