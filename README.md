@@ -147,6 +147,10 @@ For questions about the dataset, paper, or to request the original high-resoluti
 
 **Email**: nguyent [at] cs.is.i.nagoya-u.ac.jp
 
+
+## Acknowledgment
+This work was partly supported by Japan Society for the Promotion of Science (JSPS) KAKENHI JP21H03519 and JP24H00733.
+
 ---
 
 *This dataset is designed to advance research in multi-view action recognition, sensor fusion, and transformer-based approaches for understanding human activities in real-world environments.*
