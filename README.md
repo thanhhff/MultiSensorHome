@@ -11,6 +11,12 @@ A wide-area multi-modal multi-view dataset for action recognition and transforme
 - Source code: https://github.com/thanhhff/MultiTSF
 - Download dataset: https://huggingface.co/datasets/thanhhff/MultiSensor-Home1/
 
+A simple way to download the dataset:
+```
+# Make sure hf CLI is installed: pip install -U "huggingface_hub[cli]"
+hf download thanhhff/MultiSensor-Home1 --repo-type=dataset --local-dir dataset 
+```
+
 ## 📊 Dataset Overview
 
 MultiSensor-Home is a comprehensive multi-view action recognition dataset captured in a real home environment. The dataset features:
