@@ -9,12 +9,15 @@ A wide-area multi-modal multi-view dataset for action recognition and transforme
 *This dataset is introduced in our paper. For detailed methodology, experimental results, and technical insights, please refer to the publication.*
 
 - Source code: https://github.com/thanhhff/MultiTSF
-- Download dataset: https://huggingface.co/datasets/thanhhff/MultiSensor-Home1/
+- Download dataset:
+  - MultiSensor-Home1: https://huggingface.co/datasets/thanhhff/MultiSensor-Home1/
+  - MultiSensor-Home2: https://huggingface.co/datasets/thanhhff/MultiSensor-Home2/
 
 A simple way to download the dataset:
 ```
 # Make sure hf CLI is installed: pip install -U "huggingface_hub[cli]"
-hf download thanhhff/MultiSensor-Home1 --repo-type=dataset --local-dir dataset 
+hf download thanhhff/MultiSensor-Home1 --repo-type=dataset --local-dir dataset
+hf download thanhhff/MultiSensor-Home2 --repo-type=dataset --local-dir dataset 
 ```
 
 ## 📊 Dataset Overview
@@ -28,13 +31,13 @@ MultiSensor-Home is a comprehensive multi-view action recognition dataset captur
 - **Real-world Scenarios**: Natural human activities in home environment
 - **Action Classes**: 16 different action classes in this environment
 
-**Note**: The original high-resolution dataset (4000×3000 pixels) is available upon request. Please contact: nguyent@cs.is.i.nagoya-u.ac.jp
+**Note**: The original high-resolution dataset (4000×3000 pixels) is available upon request. Please contact: nguyent [at] cs.is.i.nagoya-u.ac.jp
 
 ## 🏠 Room Layout and Camera Setup
 
-![Home1 Layout](Home1-Layout.png)
+![Home1,2 Layout](Home-Layout.png)
 
-*Home1 floor plan showing camera positions and room layout*
+*Home1 and Home2 floor plan showing camera positions and room layout*
 
 - **Room Layout**: Complete floor plan of the home environment
 - **Camera Positions**: Exact placement of all 5 cameras (View1-View5)
