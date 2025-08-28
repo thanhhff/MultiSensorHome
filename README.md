@@ -16,8 +16,8 @@ A wide-area multi-modal multi-view dataset for action recognition and transforme
 A simple way to download the dataset:
 ```
 # Make sure hf CLI is installed: pip install -U "huggingface_hub[cli]"
-hf download thanhhff/MultiSensor-Home1 --repo-type=dataset --local-dir dataset
-hf download thanhhff/MultiSensor-Home2 --repo-type=dataset --local-dir dataset 
+hf download thanhhff/MultiSensor-Home1 --repo-type=dataset --local-dir dataset/Home1
+hf download thanhhff/MultiSensor-Home2 --repo-type=dataset --local-dir dataset/Home2
 ```
 
 ## 📊 Dataset Overview
