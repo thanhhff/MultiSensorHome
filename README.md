@@ -138,6 +138,14 @@ When using this dataset, please cite our paper:
   year      = {2025},
   note      = {Best Student Paper Award}
 }
+
+@inproceedings{nguyen2025multisensor_DS,
+  author    = {Trung Thanh Nguyen},
+  title     = {MultiSensor-Home: Benchmark for Multi-modal Multi-view Action Recognition in Home Environments},
+  booktitle = {Proceedings of the 7th ACM International Conference on Multimedia in Asia},
+  year      = {2025},
+  note      = {Doctoral Symposium}
+}
 ```
 
 ## 🤝 Contributing
