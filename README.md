@@ -4,14 +4,16 @@ A wide-area multi-modal multi-view dataset for action recognition and transforme
 
 ## 📖 Paper Reference
 
-**MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion**
+**MultiSensor-Home: Multi-modal multi-view dataset and benchmarks for action recognition in home environments**
 
-*This dataset is introduced in our paper. For detailed methodology, experimental results, and technical insights, please refer to the publication.*
+*This dataset is introduced in a paper published in Pattern Recognition (IF: 7.6) and presented at the IEEE FG conference. For detailed methodology, experimental results, and technical insights, please refer to the publication.*
 
-- Source code: https://github.com/thanhhff/MultiTSF
 - Download dataset:
   - MultiSensor-Home1: https://huggingface.co/datasets/thanhhff/MultiSensor-Home1/
   - MultiSensor-Home2: https://huggingface.co/datasets/thanhhff/MultiSensor-Home2/
+- Source code: 
+  - MultiTSF: https://github.com/thanhhff/MultiTSF
+  - MultiASL: https://github.com/thanhhff/MultiASL
 
 A simple way to download the dataset:
 ```
