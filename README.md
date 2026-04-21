@@ -131,6 +131,17 @@ Please include:
 When using this dataset, please cite our paper:
 
 ```bibtex
+@article{nguyen2026PR,
+  title = {MultiSensor-Home: Multi-modal multi-view dataset and benchmarks for action recognition in home environments},
+  journal = {Pattern Recognition},
+  pages = {113810},
+  year = {2026},
+  issn = {0031-3203},
+  doi = {https://doi.org/10.1016/j.patcog.2026.113810},
+  url = {https://www.sciencedirect.com/science/article/pii/S0031320326007752},
+  author = {Trung Thanh Nguyen and Yasutomo Kawanishi and Vijay John and Takahiro Komamizu and Ichiro Ide},
+}
+
 @inproceedings{nguyen2025multisensor,
   author    = {Trung Thanh Nguyen and Yasutomo Kawanishi and Vijay John and Takahiro Komamizu and Ichiro Ide},
   title     = {MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion},
