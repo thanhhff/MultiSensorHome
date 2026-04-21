@@ -134,29 +134,31 @@ When using this dataset, please cite our paper:
 
 ```bibtex
 @article{nguyen2026PR,
-  title = {MultiSensor-Home: Multi-modal multi-view dataset and benchmarks for action recognition in home environments},
+  title   = {MultiSensor-Home: Multi-modal multi-view dataset and benchmarks for action recognition in home environments},
+  author  = {Trung Thanh Nguyen and Yasutomo Kawanishi and Vijay John and Takahiro Komamizu and Ichiro Ide},
   journal = {Pattern Recognition},
-  pages = {113810},
-  year = {2026},
-  issn = {0031-3203},
-  doi = {https://doi.org/10.1016/j.patcog.2026.113810},
-  url = {https://www.sciencedirect.com/science/article/pii/S0031320326007752},
-  author = {Trung Thanh Nguyen and Yasutomo Kawanishi and Vijay John and Takahiro Komamizu and Ichiro Ide},
+  pages   = {113810},
+  year    = {2026},
+  issn    = {0031-3203},
+  doi     = {https://doi.org/10.1016/j.patcog.2026.113810},
+  url     = {https://www.sciencedirect.com/science/article/pii/S0031320326007752}
 }
 
 @inproceedings{nguyen2025multisensor,
-  author    = {Trung Thanh Nguyen and Yasutomo Kawanishi and Vijay John and Takahiro Komamizu and Ichiro Ide},
   title     = {MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion},
+  author    = {Trung Thanh Nguyen and Yasutomo Kawanishi and Vijay John and Takahiro Komamizu and Ichiro Ide},
   booktitle = {Proceedings of the 19th IEEE International Conference on Automatic Face and Gesture Recognition},
   year      = {2025},
+  doi       = {https://doi.org/10.1109/FG61629.2025.11099071},
   note      = {Best Student Paper Award}
 }
 
 @inproceedings{nguyen2025multisensor_DS,
-  author    = {Trung Thanh Nguyen},
   title     = {MultiSensor-Home: Benchmark for Multi-modal Multi-view Action Recognition in Home Environments},
+  author    = {Trung Thanh Nguyen},
   booktitle = {Proceedings of the 7th ACM International Conference on Multimedia in Asia},
   year      = {2025},
+  doi       = {https://doi.org/10.1145/3743093.3771657},
   note      = {Doctoral Symposium}
 }
 ```
